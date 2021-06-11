@@ -1,5 +1,7 @@
 ### Hi there 👋
 ![Bryans's GitHub stats](https://github-readme-stats.vercel.app/api?username=bryanlancy&show_icons=true&theme=dracula)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bryanlancy&langs_count=8)](https://github.com/bryanlancy/github-readme-stats)
+
 
 <!--
 **bryanlancy/bryanlancy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
