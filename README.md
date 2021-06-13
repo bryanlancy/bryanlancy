@@ -22,9 +22,9 @@
 ### Currently
 
 <ul>
-    <li> &#127793; I've been developing an <b style="color:#428813">automated garden</b> to expand my knowledge of sustainable agriculture. </li>
-    <li> &#127950; I have been integrating an <b style="color:#00979D">Arduino</b> and <b style="color:#A22846">Raspberry Pi</b> into my car to receive data from and send commands via the CAN bus </li>
-    <li> &#128187; I'm learning application development using <b style="color:#41CD52">Qt</b></li>
+    <li> &#127793; Developing an <b style="color:#428813">automated garden</b> to expand my knowledge of sustainable agriculture. </li>
+    <li> &#127950; Integrating an <b style="color:#00979D">Arduino</b> and <b style="color:#A22846">Raspberry Pi</b> into my car to receive data from and send commands via the CAN bus </li>
+    <li> &#128187; Learning application development using <b style="color:#41CD52">Qt</b></li>
 </ul>
 <br>
 
