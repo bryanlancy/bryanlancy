@@ -66,8 +66,9 @@
 <div>
     <img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node-dot-js&logoColor=white">
     <img alt="Express.js" src="https://img.shields.io/badge/Express.js%20-%23404d59.svg?logo=express&logoColor=white">
-    <img alt="Flask" src="https://img.shields.io/badge/Flask-black?logo=flask">
     <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-%23316192.svg?logo=postgresql&logoColor=white">
+    <img alt="Flask" src="https://img.shields.io/badge/Flask-black?logo=flask">
+    <img alt="SQLAlchemy" src="https://img.shields.io/badge/SQLAlchemy-D3373A">
 </div>
 
 ### General
