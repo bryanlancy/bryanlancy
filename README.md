@@ -34,9 +34,9 @@
         <b>Coding Stats</b>
     </summary>
     <br>
-    <p>
+    <!-- <p>
         <img alt="Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=bryanlancy&theme=github&custom_title=My%20Contribution%20Chart&point=FECC00">
-    </p>
+    </p> -->
     <p align="center">
         <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bryanlancy&show_icons=true&theme=buefy">
     </p>
