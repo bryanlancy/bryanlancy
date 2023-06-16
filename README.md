@@ -29,14 +29,14 @@
 <br>
 
 ## Langauges & Technologies
-<details open>
+<!-- <details open>
     <summary style="font-size:24px; color:#006699">
         <b>Coding Stats</b>
     </summary>
     <br>
-    <!-- <p>
+    <p>
         <img alt="Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=bryanlancy&theme=github&custom_title=My%20Contribution%20Chart&point=FECC00">
-    </p> -->
+    </p>
     <p align="center">
         <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bryanlancy&show_icons=true&theme=buefy">
     </p>
@@ -46,7 +46,7 @@
     <p align="center">
         <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanlancy&layout=compact">
     </p>
-</details>
+</details> -->
 
 ### Front End
 <div>
